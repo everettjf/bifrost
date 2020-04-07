@@ -8,4 +8,4 @@ Simple `Header Only` socket wrapper for iOS/Android/macOS/Windows based on [Asio
 
 1. add `include` directory to your include path
 
-2. please go to sample directory
+2. go to sample directory
